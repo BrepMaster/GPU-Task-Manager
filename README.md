@@ -21,7 +21,7 @@
 A desktop application built with PyQt5 for managing deep learning training task queues. It monitors all NVIDIA GPUs in real time, automatically schedules tasks to the least-loaded GPU, and parses training progress from multiple frameworks — all in a clean, modern interface with light/dark themes.
 
 ## Screenshots
-![System Screenshot](https://github.com/BrepMaster/GPU Task Manager/raw/main/1.png)
+![System Screenshot](https://github.com/BrepMaster/GPU-Task-Manager/raw/main/1.png)
 ## Features
 
 **Real-time GPU Monitoring** — Automatically detects all NVIDIA GPUs and displays utilization, VRAM, temperature, and power consumption. Refreshes every 5 seconds. Individual GPUs can be locked to exclude them from auto-scheduling.
